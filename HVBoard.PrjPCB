@@ -190,6 +190,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Parameter1]
+Name=.revision
+Value=1.0
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
